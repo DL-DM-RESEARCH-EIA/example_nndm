@@ -2,8 +2,8 @@
 Multiplication
 ==============
 
-.. currentmodule:: medium_multiply.multiplication
+.. currentmodule:: example_lib.multiplication
 
 .. Don't include inherited members to keep the doc short
-.. autoclass:: medium_multiply.Multiplication
+.. autoclass:: example_lib.Multiplication
     :members:

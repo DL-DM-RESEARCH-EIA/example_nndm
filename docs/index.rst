@@ -10,7 +10,7 @@ Welcome to example-nndm's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   source/api/multiplication
 
 Indices and tables
 ==================
